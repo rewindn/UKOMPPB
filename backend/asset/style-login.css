@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: orange;
+    }
+    
+    form{
+    margin: 100px auto;
+    width: 400px;
+    background:white;
+    padding: 10px;
+    }
+
+    table{
+    width: 100%;
+    box-shadow:1px 2px 4px rgba(0,0,0,.5);
+    }
+
+    table tr td{
+    text-align: center;
+    padding: 5px 0;
+    }
+
+    table .tittle{
+        width: 100%;
+        height: auto;
+        border: none;
+        border-bottom:2px  dashed #7c7c7c;
+        margin: 10px 0;
+        padding:5px;
+        background:none;
+        font-size:xx-large;
+        color:#6c6c6c;
+    }
+    
+    table .inp{
+    padding: 5px;
+    height: 40px
+    text-align: center;
+    width: 100%;
+    border-radius: 5px;
+    border:1px solid blck;
+    }
+    
+    table .btn{
+    background: darkslategray;
+    padding: 5px;
+    border:1px solid white;
+    color: white;
+    border-radius: 3px;
+    }
+    
+    table .btn:hover{
+    cursor: pointer;
+    background: white;
+    padding: 5px;
+    border:1px solid darkslategray;
+    color: darkslategray;
+    }

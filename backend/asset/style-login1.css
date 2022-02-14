@@ -1,0 +1,52 @@
+
+a{
+	text-decoration:none;
+}
+
+h1 p {
+	text-align: center;
+}
+.header-top{
+	width:100%;
+	height:auto;
+	text-align:left;
+	padding:5px;
+	margin:0;
+	font-size:xx-large;
+	font-weight:bold;
+	background:-moz-linear-gradient(left,#53bd84,#a7efad,#53bd84);
+}
+.login{
+	width: 400px;
+	height: auto;
+	padding: 10px;
+	margin: 150px auto;
+	border-radius: 7px;
+}
+
+	.teks{
+	width: 100%;
+	height: auto;
+	border: none;
+	border-bottom:2px  dashed #7c7c7c;
+	margin: 10px 0;
+	padding:5px;
+	background:none;
+	font-size:xx-large;
+	color:#6c6c6c;
+}
+
+.login .tombol{
+	width: 100%;
+	padding: 10px;
+	border: 1px solid #53bd84;
+	background: #53bd84;
+	color: #f1f1f1;
+	box-shadow: 0 0 5px #333;
+	font-size:large;
+}
+
+.login .tombol:hover{
+	opacity: 0.85;
+	cursor: pointer;
+}
